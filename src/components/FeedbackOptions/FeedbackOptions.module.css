@@ -1,0 +1,16 @@
+.btn {
+  background-color: rgb(199, 174, 225);
+  border-style: none;
+  border-radius: 3px;
+  padding: 15px 25px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+.btn:hover {
+  border: 2px solid rgb(199, 174, 225);
+  background-color: transparent;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
